@@ -1,0 +1,21 @@
+baseURL = "https://ihatesea69.github.io/aws-dva-c02-study-plan/"
+languageCode = "vi"
+defaultContentLanguage = "vi"
+title = "AWS DVA-C02 Study Plan"
+theme = "hugo-theme-learn"
+
+[params]
+  description = "Kế hoạch ôn tập AWS Certified Developer Associate DVA-C02"
+  author = "DVA-C02 Study"
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableNextPrev = false
+  themeVariant = "mine"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

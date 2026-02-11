@@ -1,0 +1,186 @@
+:root {
+    /* Sidebar */
+    --MENU-HEADER-BG-color: #1b2a4a;
+    --MENU-HEADER-BORDER-color: #1b2a4a;
+    --MENU-SEARCH-BG-color: #152238;
+    --MENU-SEARCH-BOX-color: #e6e6e6;
+    --MENU-SEARCH-BOX-ICONS-color: #aaa;
+    --MENU-SECTIONS-BG-color: #232f3e;
+    --MENU-SECTIONS-ACTIVE-BG-color: #1a2639;
+    --MENU-SECTIONS-LINK-color: #bababa;
+    --MENU-SECTIONS-LINK-HOVER-color: #ffffff;
+    --MENU-VISITED-color: #91b5e6;
+    --MENU-SECTION-ACTIVE-CATEGORY-color: #ffffff;
+    --MENU-SECTION-ACTIVE-CATEGORY-BG-color: #ff9900;
+
+    /* Content */
+    --MAIN-TEXT-color: #333333;
+    --MAIN-TITLES-TEXT-color: #526b8a;
+    --MAIN-LINK-color: #0073bb;
+    --MAIN-LINK-HOVER-color: #005a92;
+    --MAIN-ANCHOR-color: #0073bb;
+}
+
+/* Sidebar header — logo area */
+#sidebar #header-wrapper {
+    background: #1b2a4a;
+    padding: 2rem 1rem;
+    text-align: center;
+    border-bottom: 4px solid #ff9900;
+}
+
+#sidebar #header-wrapper .searchbox {
+    border-color: #3a4f6f;
+    background: #152238;
+}
+
+/* Sidebar menu items */
+#sidebar ul li.visited > a .read-icon {
+    color: #ff9900;
+}
+
+#sidebar ul li.active > a {
+    background: #1a2639;
+    border-left: 4px solid #ff9900;
+}
+
+#sidebar ul.topics > li.parent > a {
+    color: #e0e0e0;
+    font-weight: 600;
+}
+
+#sidebar ul.topics > li.parent > a b {
+    color: #ff9900;
+}
+
+/* Chapter headings — uppercase like FCJ */
+#body .padding h1 {
+    color: #526b8a;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 2.2rem;
+}
+
+#chapter h1 {
+    font-size: 3rem;
+    color: #526b8a;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 300;
+    border-bottom: none;
+}
+
+#chapter h3 {
+    color: #999;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 1rem;
+    margin-bottom: 0;
+}
+
+/* Top bar */
+#top-bar {
+    background: #f8f9fa;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+/* Breadcrumbs */
+#top-bar #breadcrumbs span {
+    color: #526b8a;
+}
+
+#top-bar #breadcrumbs a {
+    color: #0073bb;
+}
+
+/* Progress bar */
+.progress {
+    background-color: #ff9900;
+}
+
+/* Notice boxes — AWS style */
+.notices.info > p {
+    border-top-color: #0073bb;
+}
+
+.notices.warning > p {
+    border-top-color: #ff9900;
+}
+
+.notices.tip > p {
+    border-top-color: #1b8a2d;
+}
+
+/* Tables */
+table th {
+    background-color: #232f3e;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+table tr:nth-child(even) {
+    background-color: #f2f3f3;
+}
+
+table td, table th {
+    padding: 8px 12px;
+}
+
+/* Code blocks */
+code {
+    background: #f2f3f3;
+    color: #d13212;
+    padding: 2px 6px;
+    border-radius: 3px;
+}
+
+pre code {
+    color: #e0e0e0;
+    background: #232f3e;
+}
+
+pre {
+    background: #232f3e;
+    border: 1px solid #3a4f6f;
+}
+
+/* Links highlight — orange underline */
+#body a.highlight:after {
+    display: block;
+    content: "";
+    height: 1px;
+    width: 0%;
+    -webkit-transition: width 0.5s ease;
+    -moz-transition: width 0.5s ease;
+    transition: width 0.5s ease;
+    background-color: #ff9900;
+}
+
+#body a.highlight:hover:after {
+    width: 100%;
+}
+
+/* Footer nav arrows */
+#body .nav a {
+    color: #526b8a;
+}
+
+#body .nav a:hover {
+    color: #ff9900;
+}
+
+/* Children shortcode cards */
+.children-card {
+    border-left: 3px solid #ff9900;
+}
+
+/* Scrollbar */
+#sidebar::-webkit-scrollbar-thumb {
+    background: #3a4f6f;
+}
+
+#sidebar::-webkit-scrollbar-track {
+    background: #1b2a4a;
+}
