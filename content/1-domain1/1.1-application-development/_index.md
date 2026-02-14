@@ -1,5 +1,5 @@
 ---
-title: "1.1 Develop code for applications hosted on AWS"
+title: "Develop code for applications hosted on AWS"
 date: 2025-02-11
 weight: 1
 pre: "<b>1.1 </b>"

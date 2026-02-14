@@ -1,5 +1,5 @@
 ---
-title: "1.3 Use data stores in application development"
+title: "Use data stores in application development"
 date: 2025-02-11
 weight: 3
 pre: "<b>1.3 </b>"

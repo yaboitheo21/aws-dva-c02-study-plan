@@ -1,5 +1,5 @@
 ---
-title: "2.2 Encryption"
+title: "Encryption"
 date: 2025-02-11
 weight: 2
 pre: "<b>2.2 </b>"

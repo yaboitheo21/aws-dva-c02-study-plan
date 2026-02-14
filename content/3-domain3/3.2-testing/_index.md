@@ -1,12 +1,12 @@
 ---
-title: "3.2-3.3 Testing & Automation"
+title: "Test Applications in Development Environments"
 date: 2025-02-11
 weight: 2
 pre: "<b>3.2 </b>"
 ---
 
-### Task 2 & 3: Testing and Automation
+### Task 2: Test applications in development environments
 
-Skills 3.2.1 → 3.2.5 (Testing) và 3.3.1 → 3.3.6 (Automate deployment testing).
+Skills 3.2.1 → 3.2.5: Test deployed code, integration tests, development endpoints, stack updates, event-driven testing.
 
 {{% children %}}

@@ -1,5 +1,5 @@
 ---
-title: "3.6 Practice Questions"
+title: "Practice Questions"
 date: 2025-02-11
 weight: 6
 pre: "<b>3.6 </b>"

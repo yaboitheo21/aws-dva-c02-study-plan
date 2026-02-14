@@ -1,5 +1,5 @@
 ---
-title: "4.4 Hands-on Labs"
+title: "Hands-on Labs"
 date: 2025-02-11
 weight: 4
 pre: "<b>4.4 </b>"
@@ -14,5 +14,10 @@ pre: "<b>4.4 </b>"
 | Lab 4.3 | CloudWatch Alarms + SNS Notifications | 4.1.5, 4.2.5 |
 | Lab 4.4 | Lambda Performance Tuning | 4.3.1, 4.3.2, 4.3.3, 4.3.7 |
 | Lab 4.5 | CloudFront Caching + Cache Policies | 4.3.5, 4.3.6 |
+| Lab 4.6 | X-Ray + ServiceLens + Synthetics (Deep Dive) | 4.1.2, 4.1.5, 4.2.4, 4.2.5, 4.2.6, 4.2.8 |
+
+{{% notice info %}}
+**Lab 4.6** là workshop nâng cao (~90-120 phút), build full serverless app rồi observe bằng X-Ray tracing, ServiceLens correlated view, và Synthetics canary monitoring.
+{{% /notice %}}
 
 {{% children %}}

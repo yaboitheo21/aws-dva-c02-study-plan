@@ -1,5 +1,5 @@
 ---
-title: "2.4 Hands-on Labs"
+title: "Hands-on Labs"
 date: 2025-02-11
 weight: 4
 pre: "<b>2.4 </b>"

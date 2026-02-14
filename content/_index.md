@@ -1,7 +1,6 @@
 ---
 title: "AWS Certified Developer Associate (DVA-C02)"
 date: 2025-02-11
-chapter: true
 weight: 0
 ---
 

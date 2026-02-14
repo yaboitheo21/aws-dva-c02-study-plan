@@ -1,5 +1,5 @@
 ---
-title: "4.2 Observability"
+title: "Observability"
 date: 2025-02-11
 weight: 2
 pre: "<b>4.2 </b>"

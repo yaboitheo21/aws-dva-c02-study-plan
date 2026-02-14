@@ -1,5 +1,5 @@
 ---
-title: "2.3 Sensitive Data Management"
+title: "Sensitive Data Management"
 date: 2025-02-11
 weight: 3
 pre: "<b>2.3 </b>"

@@ -1,5 +1,5 @@
 ---
-title: "2.1 Authentication & Authorization"
+title: "Authentication & Authorization"
 date: 2025-02-11
 weight: 1
 pre: "<b>2.1 </b>"
